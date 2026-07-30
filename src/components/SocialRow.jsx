@@ -4,7 +4,7 @@ import { GithubIcon, LinkedinIcon, ThreadsIcon, MailIcon } from './icons.jsx';
 const LINKS = [
   { label: 'GitHub', href: 'https://github.com/BenCatGod', Icon: GithubIcon },
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/benyacg', Icon: LinkedinIcon },
-  { label: 'Email', href: 'mailto:benya.pengkhuean@gmail.com', Icon: MailIcon }
+  { label: 'Email', href: 'mailto:benya.pengkuen@gmail.com', Icon: MailIcon }
 ];
 
 export default function SocialRow() {
