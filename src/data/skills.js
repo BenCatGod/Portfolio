@@ -1,8 +1,10 @@
 const skills = [
-  { label: 'Design', tags: ['Figma', 'Design Systems', 'Prototyping'] },
-  { label: 'Frontend', tags: ['Java', 'JavaScript', 'Python', 'TypeScript'] },
-  { label: 'Backend & Tooling', tags: ['Node.js', 'Git'] },
-  { label: 'Data Management', tags: ['Power BI', 'Data Visualization'] }
+  { label: 'PROGRAMMING', tags: ['Python', 'Java', 'JavaScript', 'SQL'] },
+  { label: 'DATA & DATABASE', tags: ['Power BI', 'SQL'] },
+  { label: 'Web Development', tags: ['HTML', 'CSS', 'React'] },
+  { label: 'TOOLS', tags: ['GitHub', 'VS Code', 'Figma'] },
+  { label: 'SOFT SKILLS', tags: ['Collaborative teamwork', 'Fast learner', 'Communication'] },
+  { label: 'LANGUAGES', tags: ['Thai', 'English (B2)'] }
 ];
 
 export default skills;

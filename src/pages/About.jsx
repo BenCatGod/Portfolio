@@ -24,10 +24,7 @@ export default function About() {
           <SocialRow />
 
           <p className="bio">
-            A dedicated Computer Science student at Bangkok University, 
-            seeking an internship opportunity in Frontend Development, 
-            Data Analytics, or Data Science. Eager to leverage technical skills,
-             contribute to real-world projects, and learn from industry experts.
+            A Computer Science student at Bangkok University seeking an internship as a Business Analyst. Eager to leverage technical background in analytical thinking, process modeling, and data evaluation to translate business needs into actionable technical solutions.
           </p>
         </div>
 
@@ -39,7 +36,7 @@ export default function About() {
         </section>
 
         <section id="skills" className="section section--last">
-          <h2 className="section__title">Technical skills</h2>
+          <h2 className="section__title">Skills</h2>
           <SkillsGrid groups={skills} />
         </section>
 

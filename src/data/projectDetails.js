@@ -67,7 +67,7 @@ const projectDetails = {
   },
   'Medi-Lens Application': {
     longDescription: [
-      'An IoT-based automatic pet feeder that dispenses food on a schedule and can be controlled remotely through a companion mobile interface.',
+      'MediLens is an AI-powered web application that uses OCR and NLP to convert medical reports into easy-to-understand language, allowing users to chat with AI about their health results.',
       'My role was summarizing the project and documenting the development process.',
       ,'Features :'
     ],
